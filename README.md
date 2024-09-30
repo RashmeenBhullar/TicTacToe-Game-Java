@@ -15,4 +15,3 @@ This is a simple Tic-Tac-Toe game built using Java. The game can be played in th
 2. Enter the number to place your marker (X or O) on the grid.
 3. The game checks for a winner or tie after each move.
 4. Enjoy the game and challenge a friend!
-5. 
